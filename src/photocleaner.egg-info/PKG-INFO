@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: photocleaner
+Version: 1.0.0
+Summary: 照片去路人工具 - 一键去除照片中的路人
+Requires-Python: >=3.10
+Requires-Dist: opencv-python>=4.8.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: pillow>=10.0.0

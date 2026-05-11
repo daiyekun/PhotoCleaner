@@ -1,0 +1,17 @@
+[project]
+name = "photocleaner"
+version = "1.0.0"
+description = "照片去路人工具 - 一键去除照片中的路人"
+requires-python = ">=3.10"
+dependencies = [
+    "opencv-python>=4.8.0",
+    "numpy>=1.24.0",
+    "pillow>=10.0.0",
+]
+
+[project.scripts]
+photocleaner = "main:run"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

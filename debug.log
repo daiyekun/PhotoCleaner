@@ -1,0 +1,66 @@
+[DEBUG] 识别到 135381 个像素需要去除
+[INPAINT] has_content=True, mask_pixels=135381
+[DEBUG] 识别到 135381 个像素, 差异值: 1356679.0
+[INPAINT] has_content=True, mask_pixels=135381
+[DEBUG] 识别到 135381 个像素, 差异值: 1356679.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[INPAINT] has_content=True, mask_pixels=135381
+[DEBUG] 识别到 135381 个像素, 差异值: 1356679.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 15106 个像素, 差异值: 219127.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DEBUG] 识别到 226480 个像素, 差异值: 2189219.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DISPLAY] image shape: (1706, 1279, 3)
+[DISPLAY] image shape: (1706, 1279, 3)
+[DISPLAY] image shape: (1706, 1279, 3)
+[DISPLAY] image shape: (1706, 1279, 3)
+[BRUSH] 涂抹像素: 57203
+[BRUSH] 处理完成, 差异: 788612.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[BRUSH] 涂抹像素: 55014
+[BRUSH] 处理完成, 差异: 748714.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[BRUSH] 涂抹像素: 54726
+[BRUSH] 处理完成, 差异: 939412.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[BRUSH] 涂抹像素: 27210
+[BRUSH] 处理完成, 差异: 571775.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[BRUSH] 涂抹像素: 72994
+[BRUSH] 处理完成, 差异: 1471284.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[BRUSH] 涂抹像素: 98950
+[BRUSH] 处理完成, 差异: 2278823.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[DISPLAY] image shape: (1706, 1279, 3)
+[BRUSH] 涂抹像素: 90268
+[BRUSH] 处理完成, 差异: 1919078.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[BRUSH] 涂抹像素: 124493
+[BRUSH] 处理完成, 差异: 4236971.0
+[DISPLAY] image shape: (1706, 1279, 3)
+[BRUSH] 涂抹像素: 188262
+[BRUSH] 处理完成, 差异: 7592644.0

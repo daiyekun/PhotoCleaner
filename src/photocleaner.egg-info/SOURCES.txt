@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/gui.py
+src/inpainting.py
+src/photocleaner.egg-info/PKG-INFO
+src/photocleaner.egg-info/SOURCES.txt
+src/photocleaner.egg-info/dependency_links.txt
+src/photocleaner.egg-info/entry_points.txt
+src/photocleaner.egg-info/requires.txt
+src/photocleaner.egg-info/top_level.txt
